@@ -17,6 +17,6 @@ Features listed by category with the name of tools that meet them.
 - [x] Code suggestion
     - [GitHub Copilot](https://github.com/features/copilot)
 
-### Quality assessment (QA)
+### Quality assurance (QA)
 
 - [ ] Valid commit message
