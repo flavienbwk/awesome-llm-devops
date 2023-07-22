@@ -26,11 +26,14 @@ Checked titles currently have products that address the issue (at least 3 projec
     - 🔓🆓📦 [Fauxpilot](https://github.com/fauxpilot/fauxpilot)
     - 🔐💶📦 [Harness AIDA](https://www.harness.io/products/aida)
     - 🔐💶📦 [Replit Ghostwriter](https://replit.com/site/ghostwriter)
+    - 🔐💶📦 [AWS CodeWhisperer](https://aws.amazon.com/codewhisperer)
+    - 🔐🆓📦 [Claude](https://claude.ai/)
 - [x] Code debugging
     - 🔐💶📦 [ChatGPT](https://chat.openai.com/)
     - 🔐💶📦 [GitHub Copilot Chat](https://github.com/features/copilot)
     - 🔐💶📦 [Harness AIDA](https://www.harness.io/products/aida)
     - 🔐💶📦 [Replit Ghostwriter](https://replit.com/site/ghostwriter)
+    - 🔐🆓📦 [Claude](https://claude.ai/)
      
 ### Performance
 
@@ -38,15 +41,19 @@ Checked titles currently have products that address the issue (at least 3 projec
     - 🔓💸📄 [sshh12/llm_optimize](https://github.com/sshh12/llm_optimize)
 - [ ] Infrastructure optimization
 
-### Monitoring and security
+### Monitoring, security, and compliance
 
 - [ ] Code vulnerabilities finding
     - 🔐💶📦 [Harness AIDA](https://www.harness.io/products/aida)
+    - 🔐💶📦 [AWS CodeWhisperer](https://aws.amazon.com/codewhisperer/)
 - [ ] Code vulnerabilities explanation and refactoring suggestions
     - 🔐💶📦 [Harness AIDA](https://www.harness.io/products/aida)
+    - 🔐💶📦 [AWS CodeWhisperer](https://aws.amazon.com/codewhisperer/)
 - [ ] Vulnerabilities in running machines
 - [ ] Vulnerabilities in running webservers/APIs
 - [ ] Vulnerabilities in files
+- [ ] Recognize code license
+    - 🔐💶📦 [AWS CodeWhisperer](https://aws.amazon.com/codewhisperer/)
 
 ### Quality assurance (QA)
 
