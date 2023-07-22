@@ -15,7 +15,7 @@ Features are listed by category and sub-categories, along with the name of tools
 Checked titles currently have products that address the issue (at least 3 projects, including 1 product, should exist). Cited tools must be specifically trained for the category they are stated in.
 
 - 🔓 Open source / 🔐 Closed source
-- 🆓 Free / 💶 Paid / 💸 Paid 3rd party (ex: OpenAI API)
+- 🆓 Free / 💶 Paid / 💸 Paid 3rd party (i.e. OpenAI API)
 - 📄 Project / 📦 Product (production ready)
 
 ### Productivity
