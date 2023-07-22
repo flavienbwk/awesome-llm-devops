@@ -57,7 +57,8 @@ Checked titles currently have products that address the issue (at least 3 projec
 
 ### Quality assurance (QA)
 
-- [ ] Check for valid commit messages
+- [ ] Check for valid commit messages (format and relevance)
+- [ ] Check for valid issues (format and relevance)
 - [ ] Check for code best practices
     - 🔓💸📄 [truskovskiyk/pr-reviewer](https://github.com/truskovskiyk/pr-reviewer)
 - [ ] Check for dangerous/anormal contributions 
