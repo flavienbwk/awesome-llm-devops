@@ -14,8 +14,14 @@ Features listed by category with the name of tools that meet them.
 
 ### Productivity
 
-- [x] Code suggestion
+- [x] Code & configuration suggestion
     - [GitHub Copilot](https://github.com/features/copilot)
+    - [Harness AIDA](https://www.harness.io/products/aida)
+
+### Monitoring and security
+
+- [x] Vulnerabilities explanation
+    - [Harness AIDA](https://www.harness.io/products/aida)
 
 ### Quality assurance (QA)
 
