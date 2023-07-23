@@ -41,7 +41,7 @@ Checked titles currently have products that address the issue (at least 3 projec
     - 🔓💸📄 [sshh12/llm_optimize](https://github.com/sshh12/llm_optimize)
 - [ ] Infrastructure optimization
 
-### Monitoring, security, and compliance
+### Monitoring and security
 
 - [ ] Code vulnerabilities finding
     - 🔐💶📦 [Harness AIDA](https://www.harness.io/products/aida)
@@ -52,8 +52,6 @@ Checked titles currently have products that address the issue (at least 3 projec
 - [ ] Vulnerabilities in running machines
 - [ ] Vulnerabilities in running webservers/APIs
 - [ ] Vulnerabilities in files
-- [ ] Recognize code license
-    - 🔐💶📦 [AWS CodeWhisperer](https://aws.amazon.com/codewhisperer/)
 
 ### Quality assurance (QA)
 
@@ -62,3 +60,5 @@ Checked titles currently have products that address the issue (at least 3 projec
 - [ ] Check for code best practices
     - 🔓💸📄 [truskovskiyk/pr-reviewer](https://github.com/truskovskiyk/pr-reviewer)
 - [ ] Check for dangerous/anormal contributions 
+- [ ] Recognize code license
+    - 🔐💶📦 [AWS CodeWhisperer](https://aws.amazon.com/codewhisperer/)
