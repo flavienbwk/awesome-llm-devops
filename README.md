@@ -51,7 +51,7 @@ Checked titles currently have products that address the issue (at least 3 projec
     - 🔐💶📦 [AWS CodeWhisperer](https://aws.amazon.com/codewhisperer/)
 - [ ] Vulnerabilities in running machines
 - [ ] Vulnerabilities in running webservers/APIs
-- [ ] Vulnerabilities in files
+- [ ] Vulnerabilities in files / viruses
 
 ### Quality assurance (QA)
 
