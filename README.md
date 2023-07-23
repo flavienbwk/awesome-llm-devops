@@ -34,6 +34,7 @@ Checked titles currently have products that address the issue (at least 3 projec
     - 🔐💶📦 [Harness AIDA](https://www.harness.io/products/aida)
     - 🔐💶📦 [Replit Ghostwriter](https://replit.com/site/ghostwriter)
     - 🔐🆓📦 [Claude](https://claude.ai/)
+- [ ] Software documentation Q&A
      
 ### Performance
 
