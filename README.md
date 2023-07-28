@@ -35,6 +35,8 @@ Checked titles currently have products that address the issue (at least 3 projec
     - 🔐💶📦 [Replit Ghostwriter](https://replit.com/site/ghostwriter)
     - 🔐🆓📦 [Claude](https://claude.ai/)
 - [ ] Software documentation exploration (Q&A)
+- [ ] Automatic MR/PR descriptions
+- [ ] Issues description completion
      
 ### Performance
 
