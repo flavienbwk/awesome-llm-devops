@@ -1,6 +1,6 @@
-# llm-devops
+# Awesome LLM for DevOps [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A list of SDLC features enabled by LLMs.
+A list of DevOps features enabled by LLM software.
 
 This repo is intended to be powered by the community. Feel free to pick up ideas and start a profitable business 🤑.
 
