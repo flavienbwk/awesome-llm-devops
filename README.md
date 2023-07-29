@@ -23,7 +23,8 @@ Checked titles currently have products that address the issue (at least 3 projec
 - [x] Code & configuration suggestion
     - 🔐💶📦 [ChatGPT](https://chat.openai.com/)
     - 🔐💶📦 [GitHub Copilot](https://github.com/features/copilot)
-    - 🔓🆓📦 [Fauxpilot](https://github.com/fauxpilot/fauxpilot)
+    - 🔓🆓📦 [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot)
+    - 🔓🆓📦 [TabbyML/tabby](https://github.com/TabbyML/tabby)
     - 🔐💶📦 [Harness AIDA](https://www.harness.io/products/aida)
     - 🔐💶📦 [Replit Ghostwriter](https://replit.com/site/ghostwriter)
     - 🔐💶📦 [AWS CodeWhisperer](https://aws.amazon.com/codewhisperer)
