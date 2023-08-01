@@ -53,8 +53,9 @@ Checked titles currently have products that address the issue (at least 3 projec
 - [ ] Code vulnerabilities explanation and refactoring suggestions
     - 🔐💶📦 [Harness AIDA](https://www.harness.io/products/aida)
     - 🔐💶📦 [AWS CodeWhisperer](https://aws.amazon.com/codewhisperer/)
-- [ ] Vulnerabilities in running machines
-- [ ] Vulnerabilities in running webservers/APIs
+- [ ] Vulnerabilities and misconfiguration in running machines
+    - 🔓🆓📦 [K8sGPT](https://github.com/k8sgpt-ai/k8sgpt)
+- [ ] Vulnerabilities and misconfiguration in running webservers/APIs
 - [ ] Vulnerabilities in files / viruses
 
 ### Quality assurance (QA)
