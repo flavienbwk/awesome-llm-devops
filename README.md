@@ -60,6 +60,7 @@ Checked titles currently have products that address the issue (at least 3 projec
 
 ### Quality assurance (QA)
 
+- [ ] Check code readability and typos
 - [ ] Check for valid commit messages (format and relevance)
 - [ ] Check for valid issues (format and relevance)
 - [ ] Check for code best practices
