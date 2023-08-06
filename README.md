@@ -29,6 +29,8 @@ Checked titles currently have products that address the issue (at least 3 projec
     - 🔐💶📦 [Replit Ghostwriter](https://replit.com/site/ghostwriter)
     - 🔐💶📦 [AWS CodeWhisperer](https://aws.amazon.com/codewhisperer)
     - 🔐🆓📦 [Claude](https://claude.ai/)
+- [ ] Code & configuration writing (automatic)
+    - 🔓💸📦 [sweepai/sweep](https://github.com/sweepai/sweep)
 - [x] Code debugging
     - 🔐💶📦 [ChatGPT](https://chat.openai.com/)
     - 🔐💶📦 [GitHub Copilot Chat](https://github.com/features/copilot)
