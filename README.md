@@ -12,15 +12,15 @@ LLMs represent a major step forward for all digital professions. Software engine
 
 Features are listed by category and sub-categories, along with the name of tools that meet them.
 
-Checked titles currently have products that address the issue (at least 3 projects, including 1 product, should exist). Cited tools must be specifically trained for the category they are stated in.
+Checked titles are those where products are considered addressing the issue (at least 3 projects, including 1 product, should exist). Cited tools must be specifically trained for the category they are stated in.
 
 - 🔓 Open source / 🔐 Closed source
 - 🆓 Free / 💶 Paid / 💸 Paid 3rd party (i.e. OpenAI API)
-- 📄 Project / 📦 Product (early stage) / 🗄 Product (production ready)
+- 📄 Project / 📦 Product (early stage) / 🗄 Product (production-ready)
 
 ### Productivity
 
-- [x] Code & configuration suggestion or explanation (manual)
+- [x] Code & configuration suggestion or explanation (manual / chat / auto-complete)
     - 🔐💶🗄 [ChatGPT](https://chat.openai.com/)
     - 🔐💶🗄 [GitHub Copilot](https://github.com/features/copilot)
     - 🔓🆓📦 [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot)
@@ -30,8 +30,10 @@ Checked titles currently have products that address the issue (at least 3 projec
     - 🔐💶🗄 [AWS CodeWhisperer](https://aws.amazon.com/codewhisperer)
     - 🔐🆓🗄 [Claude](https://claude.ai/)
     - 🔐🆓📦 [Google Project IDX](https://idx.google.com/) (IDE)
+    - 🔐🆓📦 [Google Duet AI](https://cloud.google.com/duet-ai)
     - 🔐💶🗄 [GitLab Duo](https://about.gitlab.com/gitlab-duo/)
-- [ ] Code, tests & configuration writing (automatic)
+    - 🔐💶📄 [SafeCoder](https://huggingface.co/blog/safecoder)
+- [ ] Code, tests & configuration writing (automatic refactoring or suggestions)
     - 🔓💸📦 [sweepai/sweep](https://github.com/sweepai/sweep)
     - 🔐💶🗄 [GitLab Duo](https://about.gitlab.com/gitlab-duo/)
 - [x] Code debugging or explanation
@@ -75,6 +77,6 @@ Checked titles currently have products that address the issue (at least 3 projec
 - [ ] Check for code best practices
     - 🔓💸📄 [truskovskiyk/pr-reviewer](https://github.com/truskovskiyk/pr-reviewer)
     - 🔐💶🗄 [GitLab Duo](https://about.gitlab.com/gitlab-duo/)
-- [ ] Check for dangerous/anormal contributions 
+- [ ] Check for anormal/dangerous contributions 
 - [ ] Recognize code license
     - 🔐💶🗄 [AWS CodeWhisperer](https://aws.amazon.com/codewhisperer/)
