@@ -49,6 +49,9 @@ Checked titles are those where products are considered addressing the issue (at 
     - 🔐💶🗄🖥️ [GitLab Duo](https://about.gitlab.com/gitlab-duo/)
 - [ ] Issues description, summarization or completion
     - 🔐💶🗄🖥️ [GitLab Duo](https://about.gitlab.com/gitlab-duo/)
+- [ ] DevOps AI Assistants (interact with external DevOps-related services)
+    - 🔐🆓📦#️⃣ [OpsTower.ai](https://github.com/opstower-ai/llm-opstower)
+    - 🔐💸📦#️⃣ [Release AI](https://release.ai/)
      
 ### Performance
 
