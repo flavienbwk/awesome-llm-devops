@@ -37,6 +37,7 @@ Checked titles are those where products are considered addressing the issue (at 
 - [ ] Code, tests & configuration writing (automatic refactoring or suggestions)
     - 🔓💸📦🖥️ [sweepai/sweep](https://github.com/sweepai/sweep)
     - 🔐💶🗄🖥️ [GitLab Duo](https://about.gitlab.com/gitlab-duo/)
+    - 🔓🆓📦👨‍💻 [DevOpsGPT](https://github.com/kuafuai/DevOpsGPT)
 - [x] Code debugging or explanation
     - 🔐💶🗄🖥️ [ChatGPT](https://chat.openai.com/)
     - 🔐💶📦👨‍💻 [GitHub Copilot Chat](https://github.com/features/copilot)
