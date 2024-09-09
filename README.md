@@ -37,6 +37,7 @@ Checked titles are those where products are considered addressing the issue (at 
     - 🔐💸🗄👨‍💻 [Cody](https://sourcegraph.com/cody) (VSCode Extension)
     - 🔐🆓🗄👨‍💻 [Cursor](https://www.cursor.com/)
     - 🔐🆓📦👨‍💻🖥️ [Amazon Q](https://aws.amazon.com/fr/q/)
+    - 🔓💸📄#️⃣ [Repochat Action](https://github.com/flavienbwk/repochat-action) (GitHub Action)
 - [x] Code, tests & configuration writing, refactoring or suggestion (automated integration with software lifecycle)
     - 🔓💸📦🖥️ [sweepai/sweep](https://github.com/sweepai/sweep)
     - 🔐💶🗄🖥️ [GitLab Duo](https://about.gitlab.com/gitlab-duo/)
