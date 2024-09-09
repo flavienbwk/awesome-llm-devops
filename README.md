@@ -15,13 +15,13 @@ Features are listed by category and sub-categories, along with the name of tools
 Checked titles are those where products are considered addressing the issue (at least 3 projects, including 1 product, should exist). Cited tools must be specifically trained for the category they are stated in.
 
 - 🔓 Open source / 🔐 Closed source
-- 🆓 Free / 💶 Paid / 💸 Paid 3rd party (i.e. OpenAI API)
+- 🆓 Free (or including free tier) / 💸 Paid 3rd party (i.e. OpenAI API) / 💶 Paid
 - 📄 Project / 📦 Product (early stage) / 🗄 Product (production-ready)
 - #️⃣ CLI interface / 🖥️ browser interface / 👨‍💻 IDE interface
 
-### Productivity
+### Software productivity
 
-- [x] Code & configuration suggestion or explanation (manual / chat / auto-complete)
+- [x] Code & configuration writing, suggestion or explanation (chat-based / auto-complete)
     - 🔐💶🗄🖥️ [ChatGPT](https://chat.openai.com/)
     - 🔐💶🗄👨‍💻 [GitHub Copilot](https://github.com/features/copilot)
     - 🔓🆓📦👨‍💻 [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot)
@@ -34,47 +34,19 @@ Checked titles are those where products are considered addressing the issue (at 
     - 🔐🆓📦👨‍💻 [Google Duet AI](https://cloud.google.com/duet-ai)
     - 🔐💶🗄🖥️ [GitLab Duo](https://about.gitlab.com/gitlab-duo/)
     - 🔐💶📄🖥️ [SafeCoder](https://huggingface.co/blog/safecoder)
-- [ ] Code, tests & configuration writing (automatic refactoring or suggestions)
+    - 🔐💸🗄👨‍💻 [Cody](https://sourcegraph.com/cody) (VSCode Extension)
+    - 🔐🆓🗄👨‍💻 [Cursor](https://www.cursor.com/)
+    - 🔐🆓📦👨‍💻🖥️ [Amazon Q](https://aws.amazon.com/fr/q/)
+- [x] Code, tests & configuration writing, refactoring or suggestion (automated integration with software lifecycle)
     - 🔓💸📦🖥️ [sweepai/sweep](https://github.com/sweepai/sweep)
     - 🔐💶🗄🖥️ [GitLab Duo](https://about.gitlab.com/gitlab-duo/)
     - 🔓🆓📦👨‍💻 [DevOpsGPT](https://github.com/kuafuai/DevOpsGPT)
-- [x] Code debugging or explanation
-    - 🔐💶🗄🖥️ [ChatGPT](https://chat.openai.com/)
-    - 🔐💶📦👨‍💻 [GitHub Copilot Chat](https://github.com/features/copilot)
-    - 🔐💶🗄🖥️ [Harness AIDA](https://www.harness.io/products/aida)
-    - 🔐💶🗄👨‍💻 [Replit Ghostwriter](https://replit.com/site/ghostwriter)
-    - 🔐🆓🗄🖥️ [Claude](https://claude.ai/)
 - [ ] Software documentation exploration (Q&A)
     - 🔐💶🗄🖥️ [GitLab Duo](https://about.gitlab.com/gitlab-duo/)
-- [ ] Automatic MR/PR descriptions
+- [ ] Automated MR/PR or issues descriptions, summarization or completion
     - 🔐💶🗄🖥️ [GitLab Duo](https://about.gitlab.com/gitlab-duo/)
-- [ ] Issues description, summarization or completion
-    - 🔐💶🗄🖥️ [GitLab Duo](https://about.gitlab.com/gitlab-duo/)
-- [ ] DevOps AI Assistants (interact with external DevOps-related services)
-    - 🔐🆓📦#️⃣ [OpsTower.ai](https://github.com/opstower-ai/llm-opstower)
-    - 🔐💸📦#️⃣ [Release AI](https://release.ai/)
-     
-### Performance
 
-- [ ] Code optimization
-    - 🔓💸📄#️⃣ [sshh12/llm_optimize](https://github.com/sshh12/llm_optimize)
-- [ ] Infrastructure optimization
-
-### Monitoring and security
-
-- [ ] Code vulnerabilities finding
-    - 🔐💶🗄🖥️ [Harness AIDA](https://www.harness.io/products/aida)
-    - 🔐💶🗄👨‍💻 [AWS CodeWhisperer](https://aws.amazon.com/codewhisperer/)
-- [x] Code vulnerabilities explanation and refactoring suggestions
-    - 🔐💶🗄🖥️ [Harness AIDA](https://www.harness.io/products/aida)
-    - 🔐💶🗄👨‍💻 [AWS CodeWhisperer](https://aws.amazon.com/codewhisperer/)
-    - 🔐💶🗄🖥️ [GitLab Duo](https://about.gitlab.com/gitlab-duo/)
-- [ ] Detect vulnerabilities and misconfiguration in running machines
-    - 🔓🆓📦#️⃣ [K8sGPT](https://github.com/k8sgpt-ai/k8sgpt)
-- [ ] Detect vulnerabilities and misconfiguration in running webservers/APIs
-- [ ] Detect vulnerabilities in files / viruses
-
-### Quality assurance (QA)
+### Software maintainability
 
 - [ ] Check code readability and typos
 - [ ] Check for valid commit messages (format and relevance)
@@ -82,6 +54,27 @@ Checked titles are those where products are considered addressing the issue (at 
 - [ ] Check for code best practices
     - 🔓💸📄🖥️ [truskovskiyk/pr-reviewer](https://github.com/truskovskiyk/pr-reviewer)
     - 🔐💶🗄🖥️ [GitLab Duo](https://about.gitlab.com/gitlab-duo/)
-- [ ] Check for anormal/dangerous contributions 
+- [ ] Check for abnormal/dangerous contributions 
 - [ ] Recognize code license
     - 🔐💶🗄👨‍💻 [AWS CodeWhisperer](https://aws.amazon.com/codewhisperer/)
+- [ ] Code optimization
+    - 🔓💸📄#️⃣ [sshh12/llm_optimize](https://github.com/sshh12/llm_optimize)
+- [x] Code vulnerabilities explanation and refactoring suggestions
+    - 🔐💶🗄🖥️ [Harness AIDA](https://www.harness.io/products/aida)
+    - 🔐💶🗄👨‍💻 [AWS CodeWhisperer](https://aws.amazon.com/codewhisperer/)
+    - 🔐💶🗄🖥️ [GitLab Duo](https://about.gitlab.com/gitlab-duo/)
+
+### Infrastructure productivity and maintainability
+
+- [ ] Infrastructure alerts (automated)
+- [ ] Infrastructure optimization
+    - 🔐🆓📦👨‍💻🖥️ [Amazon Q](https://aws.amazon.com/fr/q/)
+- [ ] Infrastructure exploration (i.e: cost analysis, network description etc...)
+    - 🔐🆓📦👨‍💻🖥️ [Amazon Q](https://aws.amazon.com/fr/q/)
+    - 🔓💸📦#️⃣ [OpsTower.ai](https://github.com/opstower-ai/llm-opstower)
+- [ ] Infrastructure troubleshooting
+    - 🔓💸📦#️⃣ [OpsTower.ai](https://github.com/opstower-ai/llm-opstower)
+- [ ] Detect vulnerabilities and misconfiguration in running machines
+    - 🔓💸📦#️⃣ [K8sGPT](https://github.com/k8sgpt-ai/k8sgpt)
+- [ ] Detect vulnerabilities and misconfiguration in running webservers/APIs
+- [ ] Detect viruses on volumes/disks
