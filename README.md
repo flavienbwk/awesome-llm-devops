@@ -21,7 +21,7 @@ Checked titles are those where products are considered addressing the issue (at 
 
 ### Software productivity
 
-- [x] Code & configuration writing, suggestion or explanation (chat-based / auto-complete)
+- [x] Code & configuration writing, suggestion or explanation (chat-based / cli-based / auto-complete)
     - 🔐💶🗄🖥️ [ChatGPT](https://chat.openai.com/)
     - 🔐💶🗄👨‍💻 [GitHub Copilot](https://github.com/features/copilot)
     - 🔓🆓📦👨‍💻 [fauxpilot/fauxpilot](https://github.com/fauxpilot/fauxpilot)
@@ -30,6 +30,9 @@ Checked titles are those where products are considered addressing the issue (at 
     - 🔐💶🗄👨‍💻 [Replit Ghostwriter](https://replit.com/site/ghostwriter)
     - 🔐💶🗄👨‍💻 [AWS CodeWhisperer](https://aws.amazon.com/codewhisperer)
     - 🔐🆓🗄🖥️ [Claude](https://claude.ai/)
+    - 🔐🆓🗄👨‍💻 [Ampcode](https://ampcode.com/)
+    - 🔐🆓🗄#️⃣ [Claude Code](https://claude.com/product/claude-code)
+    - 🔐🆓🗄#️⃣ [Gemini CLI](https://github.com/google-gemini/gemini-cli)
     - 🔐🆓📦👨‍💻 [Google Project IDX](https://idx.google.com/)
     - 🔐🆓📦👨‍💻 [Google Duet AI](https://cloud.google.com/duet-ai)
     - 🔐💶🗄🖥️ [GitLab Duo](https://about.gitlab.com/gitlab-duo/)
@@ -44,6 +47,7 @@ Checked titles are those where products are considered addressing the issue (at 
     - 🔓🆓📦👨‍💻 [DevOpsGPT](https://github.com/kuafuai/DevOpsGPT)
 - [ ] Software documentation exploration (Q&A)
     - 🔐💶🗄🖥️ [GitLab Duo](https://about.gitlab.com/gitlab-duo/)
+    - 🔐💸📄🖥️ [GitLab Chat Community](https://github.com/flavienbwk/gitlab-chat-community)
 - [ ] Automated MR/PR or issues descriptions, summarization or completion
     - 🔐💶🗄🖥️ [GitLab Duo](https://about.gitlab.com/gitlab-duo/)
 
@@ -55,7 +59,7 @@ Checked titles are those where products are considered addressing the issue (at 
 - [ ] Check for code best practices
     - 🔓💸📄🖥️ [truskovskiyk/pr-reviewer](https://github.com/truskovskiyk/pr-reviewer)
     - 🔐💶🗄🖥️ [GitLab Duo](https://about.gitlab.com/gitlab-duo/)
-- [ ] Check for abnormal/dangerous contributions 
+- [ ] Check for abnormal/dangerous contributions
 - [ ] Recognize code license
     - 🔐💶🗄👨‍💻 [AWS CodeWhisperer](https://aws.amazon.com/codewhisperer/)
 - [ ] Code optimization
