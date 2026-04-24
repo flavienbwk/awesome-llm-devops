@@ -83,3 +83,4 @@ Checked titles are those where products are considered addressing the issue (at 
     - 🔓💸📦#️⃣ [K8sGPT](https://github.com/k8sgpt-ai/k8sgpt)
 - [ ] Detect vulnerabilities and misconfiguration in running webservers/APIs
 - [ ] Detect viruses on volumes/disks
+- [KubeStellar Console](https://github.com/kubestellar/console) - Multi-cluster Kubernetes dashboard with LLM-powered operations, AI agent integrations, and intelligent workload placement across edge and cloud clusters.
