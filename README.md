@@ -28,7 +28,7 @@ Checked titles are those where products are considered addressing the issue (at 
     - 🔓🆓📦👨‍💻 [TabbyML/tabby](https://github.com/TabbyML/tabby)
     - 🔐💶🗄🖥️ [Harness AIDA](https://www.harness.io/products/aida)
     - 🔐💶🗄👨‍💻 [Replit Ghostwriter](https://replit.com/site/ghostwriter)
-    - 🔐💶🗄👨‍💻 [AWS CodeWhisperer](https://aws.amazon.com/codewhisperer)
+    - 🔐💶🗄👨‍💻 [Amazon Q Developer](https://aws.amazon.com/q/developer/)
     - 🔐🆓🗄🖥️ [Claude](https://claude.ai/)
     - 🔐💶🗄🖥️ [dev.meta.ai](https://dev.meta.ai/)
     - 🔐🆓🗄👨‍💻 [Ampcode](https://ampcode.com/)
@@ -64,12 +64,12 @@ Checked titles are those where products are considered addressing the issue (at 
     - 🔐💶🗄🖥️ [GitLab Duo](https://about.gitlab.com/gitlab-duo/)
 - [ ] Check for abnormal/dangerous contributions
 - [ ] Recognize code license
-    - 🔐💶🗄👨‍💻 [AWS CodeWhisperer](https://aws.amazon.com/codewhisperer/)
+    - 🔐💶🗄👨‍💻 [Amazon Q Developer](https://aws.amazon.com/q/developer/)
 - [ ] Code optimization
     - 🔓💸📄#️⃣ [sshh12/llm_optimize](https://github.com/sshh12/llm_optimize)
 - [x] Code vulnerabilities explanation and refactoring suggestions
     - 🔐💶🗄🖥️ [Harness AIDA](https://www.harness.io/products/aida)
-    - 🔐💶🗄👨‍💻 [AWS CodeWhisperer](https://aws.amazon.com/codewhisperer/)
+    - 🔐💶🗄👨‍💻 [Amazon Q Developer](https://aws.amazon.com/q/developer/)
     - 🔐💶🗄🖥️ [GitLab Duo](https://about.gitlab.com/gitlab-duo/)
 
 ### Infrastructure productivity and maintainability
