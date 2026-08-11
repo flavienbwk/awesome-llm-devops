@@ -87,3 +87,4 @@ Checked titles are those where products are considered addressing the issue (at 
 - [ ] Detect viruses on volumes/disks
 - [x] LLM gateway / unified AI routing (EU data residency, GDPR-compliant)
     - 🔐💶🗄#️⃣🖥️ [EURouter](https://eurouter.ai/) - Unified API gateway for 100+ AI models with EU data residency, GDPR compliance, intelligent routing and OpenAI compatibility
+    - 🔐🆓🗄#️⃣🖥️ [OpenRouter](https://openrouter.ai/) - Unified API gateway for 400+ AI models with intelligent routing, automatic fallbacks and OpenAI compatibility
