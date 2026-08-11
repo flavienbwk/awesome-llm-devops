@@ -85,3 +85,5 @@ Checked titles are those where products are considered addressing the issue (at 
     - 🔓💸📦#️⃣ [K8sGPT](https://github.com/k8sgpt-ai/k8sgpt)
 - [ ] Detect vulnerabilities and misconfiguration in running webservers/APIs
 - [ ] Detect viruses on volumes/disks
+- [x] LLM gateway / unified AI routing (EU data residency, GDPR-compliant)
+    - 🔐💶🗄#️⃣🖥️ [EURouter](https://eurouter.ai/) - Unified API gateway for 100+ AI models with EU data residency, GDPR compliance, intelligent routing and OpenAI compatibility
