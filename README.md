@@ -30,6 +30,7 @@ Checked titles are those where products are considered addressing the issue (at 
     - 🔐💶🗄👨‍💻 [Replit Ghostwriter](https://replit.com/site/ghostwriter)
     - 🔐💶🗄👨‍💻 [AWS CodeWhisperer](https://aws.amazon.com/codewhisperer)
     - 🔐🆓🗄🖥️ [Claude](https://claude.ai/)
+    - 🔐💶🗄🖥️ [dev.meta.ai](https://dev.meta.ai/)
     - 🔐🆓🗄👨‍💻 [Ampcode](https://ampcode.com/)
     - 🔐🆓🗄#️⃣ [Claude Code](https://claude.com/product/claude-code)
     - 🔐🆓🗄#️⃣ [Gemini CLI](https://github.com/google-gemini/gemini-cli)
