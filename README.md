@@ -35,6 +35,7 @@ Checked titles are those where products are considered addressing the issue (at 
     - 🔐🆓🗄#️⃣ [Claude Code](https://claude.com/product/claude-code)
     - 🔐🆓🗄#️⃣ [Gemini CLI](https://github.com/google-gemini/gemini-cli)
     - 🔓🆓🗄#️⃣ [OpenCode](https://opencode.ai/)
+    - 🔓🆓🗄#️⃣ [nousresearch/hermes-agent](https://github.com/nousresearch/hermes-agent) - Self-improving open-source agent with learning loop, persistent memory, multi-platform gateway and provider-agnostic routing
     - 🔐🆓📦👨‍💻 [Google Project IDX](https://idx.google.com/)
     - 🔐🆓📦👨‍💻 [Google Duet AI](https://cloud.google.com/duet-ai)
     - 🔐💶🗄🖥️ [GitLab Duo](https://about.gitlab.com/gitlab-duo/)
