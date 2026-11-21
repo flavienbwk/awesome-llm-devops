@@ -83,6 +83,7 @@ Checked titles are those where products are considered addressing the issue (at 
     - 🔓💸📦#️⃣ [OpsTower.ai](https://github.com/opstower-ai/llm-opstower)
 - [ ] Infrastructure troubleshooting
     - 🔓💸📦#️⃣ [OpsTower.ai](https://github.com/opstower-ai/llm-opstower)
+    - 🔐🆓🗄🖥️ [Sherlocks AI](https://www.sherlocks.ai/) - AI SRE agent that investigates production alerts to a root cause across AWS, GCP, Azure and Kubernetes, and posts the evidence in Slack
 - [ ] Detect vulnerabilities and misconfiguration in running machines
     - 🔓💸📦#️⃣ [K8sGPT](https://github.com/k8sgpt-ai/k8sgpt)
 - [ ] Detect vulnerabilities and misconfiguration in running webservers/APIs
