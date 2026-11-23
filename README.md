@@ -87,6 +87,7 @@ Checked titles are those where products are considered addressing the issue (at 
 - [ ] Detect vulnerabilities and misconfiguration in running machines
     - 🔓💸📦#️⃣ [K8sGPT](https://github.com/k8sgpt-ai/k8sgpt)
 - [ ] Detect vulnerabilities and misconfiguration in running webservers/APIs
+    - 🔓🆓🗄#️⃣🖥️👨‍💻 [VibeShield & OmniForge Launch Audit](https://github.com/zColdWater/vibeshield-action) - Open-source GitHub Action, CLI, and remote MCP server for coding agents that detects missing CSP/HSTS/COOP headers, exposed `.env`/`.map` files, leaked client-side API keys, and SPF/DMARC misconfigurations on live webservers and APIs
 - [ ] Detect viruses on volumes/disks
 - [x] LLM gateway / unified AI routing (EU data residency, GDPR-compliant)
     - 🔐💶🗄#️⃣🖥️ [EURouter](https://eurouter.ai/) - Unified API gateway for 100+ AI models with EU data residency, GDPR compliance, intelligent routing and OpenAI compatibility
